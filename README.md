@@ -8,7 +8,7 @@ This repository serves as the inventory for the Change Management model.
 
 It will contain the Version Configuration of your apps and the Deployment Target Configuration.
 
-For more details, make sure you read [how the Change Managemement model works](http://ibm.biz/cocoa-change-management-model)
+For more details, make sure you read [how the Change Management model works](https://cloud.ibm.com/docs/devsecops?topic=devsecops-cd-devsecops-automate-changemgmt)
 
 ## Usage updates after Nov 27th 2020
 
@@ -18,7 +18,7 @@ For the full details on how does the Inventory works between CI pipelines and de
 
 ## Further references
 
-* [The Change Management model](http://ibm.biz/cocoa-change-management-model)
+* [The Change Management model](https://cloud.ibm.com/docs/devsecops?topic=devsecops-cd-devsecops-automate-changemgmt)
 * [Devops section of the IBM Cloud Engineering handbook](https://pages.github.ibm.com/CloudEngineering/system_architecture/devops/)
 * [Reference compliance CI toolchain](https://github.ibm.com/one-pipeline/compliance-ci-toolchain)
 * [Reference compliance CD toolchain](https://github.ibm.com/one-pipeline/compliance-cd-toolchain)
