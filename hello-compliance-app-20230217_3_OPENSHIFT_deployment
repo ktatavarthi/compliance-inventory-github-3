@@ -1,0 +1,12 @@
+{
+  "version": "b8e36fcc8a0872545c72b5564a12d2f748ee95e1",
+  "artifact": "https://raw.githubusercontent.com/ktatavarthi/hello-compliance-app-20230217_3/b8e36fcc8a0872545c72b5564a12d2f748ee95e1/deployment_os.yml",
+  "name": "hello-compliance-app-20230217_3_OPENSHIFT_deployment",
+  "repository_url": "https://github.com/ktatavarthi/hello-compliance-app-20230217_3",
+  "build_number": 33,
+  "commit_sha": "b8e36fcc8a0872545c72b5564a12d2f748ee95e1",
+  "pipeline_run_id": "0d0ec0f0-5f87-4ac6-8c4f-91331957bad4",
+  "type": "deployment",
+  "sha256": "d20b6f87feaf0ce8cd7a4b78192061f5f22d6bedf78bfe07a66bf956a400e97a",
+  "signature": "d20b6f87feaf0ce8cd7a4b78192061f5f22d6bedf78bfe07a66bf956a400e97a"
+}
